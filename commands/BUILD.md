@@ -16,4 +16,4 @@ For more information, view [Microsoft's Documentation](https://docs.microsoft.co
 
 ##Resources
 
-- [Back to Home!](./README.md)
+- [Back to Home!](../README.md)

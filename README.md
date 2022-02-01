@@ -6,7 +6,11 @@ Here are some notes on C# and commands that I find useful.
 
 ## C# commands
 
-- [Build](./BUILD.md)
-- [Run](./RUN.md)
-- [Add](./ADD.md)
-- [Solution(sln)](./SOLUTION.md)
+- [Add](./commands/ADD.md)
+- [Build](./commands/BUILD.md)
+- [Clean](./commands/CLEAN.md)
+- [Publish](./commands/PUBLISH.md)
+- [Restore](./commands/RESTORE.md)
+- [Run](./commands/RUN.md)
+- [Solution(sln)](./commands/SOLUTION.md)
+- [Test](./commands/TEST.md)

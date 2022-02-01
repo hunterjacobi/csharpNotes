@@ -14,4 +14,4 @@ dotnet new sln
 
 - [Microsoft](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-sln)
 
-- [Back to Home!](./README.md)
+- [Back to Home!](../README.md)
